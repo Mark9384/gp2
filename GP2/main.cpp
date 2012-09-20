@@ -5,7 +5,7 @@
 #endif
 
 #include "Win32Window.h"
-
+// This is my change
 //Check to see if we are on windows
 #ifdef WIN32
 int WINAPI WinMain(HINSTANCE hInstance, 
